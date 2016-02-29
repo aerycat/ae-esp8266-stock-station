@@ -6,4 +6,6 @@ ESP8266 example base on [Arduino] IDE
   - 当前证券涨跌幅超2% LED慢速闪烁，超4% LED快速闪烁。
   - 串口监测打印相关系统信息。
 
+![Image of circuit](https://raw.githubusercontent.com/aerycat/ae-esp8266-stock-station/master/circuit.png)
+
 [Arduino]: <https://www.arduino.cc/>
